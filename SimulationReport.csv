@@ -1,0 +1,12 @@
+Mode,BetDollars,DealNumber,DealId,ConfigVersion,Tickets,PrizeTickets,Wagers,Payouts,TargetRTP,ActualRTP,ReachedTarget,LongestLossStreak,LossStreakLimit
+Inner,1.00,1,0b9b32a9269e43579381c731c98479ba,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,7,8
+Inner,1.00,2,2cea653d53f546f9b944cdcbe5f9883a,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,8,8
+Inner,1.00,3,4ccc8b243e2140e0a92867027511ead5,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,8,8
+Inner,1.00,4,126171af735e494db44338422152f56e,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,7,8
+Inner,1.00,5,b6c95192c4a448429916f9868bb7afe9,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,8,8
+Inner,1.00,6,ceccd0782ee84f43a687afbd76a176fe,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,7,8
+Inner,1.00,7,ed590fc6c0d5436e817be811b9eed444,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,8,8
+Inner,1.00,8,064943bf63fa4d878c3fa158a54d9545,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,8,8
+Inner,1.00,9,92976c1e17ed4fb4bc5837018d43c55d,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,8,8
+Inner,1.00,10,c1b98c8055734482b7d491b6025121a7,placeholder-1,80,18,80.00,72.00,90.00%,90.0000%,True,7,8
+Outer,1.00,1,64b3355859344e29b17f9a6326d8a7d8,placeholder-1,140,18,140.00,126.00,90.00%,90.0000%,True,14,14
