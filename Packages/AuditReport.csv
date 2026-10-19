@@ -1,0 +1,4 @@
+DealId,Mode,BetDollars,State,ConfigVersion,TicketsUsed,TicketCount,TicketsRemaining,Wagers,Payouts,TargetRTP,ActualRTP,ReachedTarget,CompletedUtc,RetiredUtc,RetireReason,ReplacementDealId,NewConfigVersion
+2646a355afb446beaca96739010de97a,Inner,0.25,Completed,placeholder-1,60,60,0,15.00,13.50,90.00%,90.0000%,True,2026-10-19T04:35:56.5306089Z,,,,
+e82d0ea3fc47497f975d225f31666eb6,Inner,0.50,Retired,placeholder-1,2,340,338,1.00,0.00,90.00%,0.0000%,False,,2026-10-19T04:46:19.3348887Z,audit test,446ce6f8c9e541938dc3864eaa16d74b,placeholder-1
+970337d55cd24c86bd669d527f336e65,Inner,0.25,Completed,placeholder-1,60,60,0,15.00,13.50,90.00%,90.0000%,True,2026-10-19T04:36:02.9513335Z,,,,
