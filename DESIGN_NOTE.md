@@ -59,7 +59,7 @@ The game already talks only to `IDealService`, so the client stays the same and 
 
 ## Skipped
 
-- Tolerance mode and the audit CSV export (stretch goals).
+- Tolerance mode (stretch goal).
 - Tests written against the real bags: *Inner $1.00 with max consecutive losses 5 is rejected* and *Outer $1.75 with one paired cycle is rejected*. The same behaviours are tested with the placeholder bags.
 - The deal-size table and simulation report were generated with the placeholder bags and should be regenerated when the real bags are available.
 
