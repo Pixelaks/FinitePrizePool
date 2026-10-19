@@ -31,7 +31,7 @@ Everything runs inside Unity in C#. There is no server, database or network part
 | Write Placeholder Config JSON | Writes `Assets/Game/Resources/deal-config.json` |
 | Export Deal Size Table (CSV) | Writes `DealSizeTable.csv` (all 40 mode/bet combinations) to the project root |
 | Run Simulation Report | Plays 10 complete Inner $1.00 deals and 1 complete Outer $1.00 deal, writes `SimulationReport.csv` to the project root |
-| Admin Window | Retire an active deal (while in Play mode) and view completed and retired deal records |
+| Admin Window | Retire an active deal (while in Play mode) and view completed and retired deal records | | Export Audit CSV | Writes `AuditReport.csv` to the project root, listing completed and retired deals with wagers, payouts, target and actual RTP, and retire details |
 
 ### Running the tests
 
@@ -105,7 +105,6 @@ The Game assembly references the engine. The engine references nothing. The UI t
 ## Not done
 
 - Tolerance mode (stretch goal)
-- Audit CSV export of completed and retired deals (stretch goal). Deal records can be viewed in the Admin Window.
 - Tests that depend on the real bags (see below)
 
 ## Test coverage
